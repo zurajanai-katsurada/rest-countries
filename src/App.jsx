@@ -1,6 +1,6 @@
 import './App.css'
 import Countries from './components/countries/countries'
-import Country from './components/country/country'
+
 
 function App() {
 
